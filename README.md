@@ -6,9 +6,9 @@ Through this program (Library Management) we can find out a whole list of books 
 Step1-Create a library class
 In this I have defined
 #display book
-# lend book (if the book is present)
-# add book
-# return book
+#lend book (if the book is present)
+#add book
+#return book
 Step2-Create Library
 Here I have created a small library and I have used my name as library name
 Step3-Create Loops
