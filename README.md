@@ -8,8 +8,8 @@ In this I have defined
 #display book
 #lend book (if the book is present)
 #add book
-#return book
+#return book.
 Step2-Create Library
-Here I have created a small library and I have used my name as library name
+Here I have created a small library and I have used my name as library name.
 Step3-Create Loops
 Here I have created some infinite loops using while loop and if-else loop in which I have taken inputs for all the conditions(display book, lend book, add book, return book).And in the end I have printed the statement defined the choices as c and q.
